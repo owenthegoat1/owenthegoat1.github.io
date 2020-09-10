@@ -1,3 +1,9 @@
 body {
 	background: #e60b0b;
 }
+img{
+	width:20%;
+	margin-left:auto;
+	margin-right:auto;
+	display:block;
+}
